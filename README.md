@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @CapSap
-- 👀 I’m interested in react. 
-- 🌱 I’m currently studying with _nology.
+- npm is not an acronym for node package manager
 - Portfoio https://capsap.github.io/portfolio/
 
 <!---
